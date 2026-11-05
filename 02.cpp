@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 		std::cout << str2[i] << " " << std::flush;
 	}
 
-
+	fin.close();
 
 
 	return(0);
